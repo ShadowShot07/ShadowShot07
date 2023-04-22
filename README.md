@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
   <h1 align="center">Hello👋, I'm Javier</h1>
   <h3 align="center">I'm a full stack web developer from the Canary Islands. I've learned to develop in Python for applications like Blender and Maya, adding components and functionalities.I'm currently learning more about developing these functionalities in the mentioned programs.
   </h3>
