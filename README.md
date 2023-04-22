@@ -32,12 +32,6 @@
          title="C#" alt="C#" width="40" height="40"/>
   </div>
 </div>
----
-### My Github Stats:
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ShadowShot07&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowShot07)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ShadowShot07/ShadowShot07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
