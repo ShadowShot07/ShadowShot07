@@ -32,7 +32,9 @@
          title="C#" alt="C#" width="40" height="40"/>
   </div>
 </div>
+
 ---
+### Languages stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowShot07&exclude_repo=DOR-ejercicio-1,clase,HTML_CSS_WITHOUT_BOOTSTRAP,StoryBoardProject,WebsiteRawFiles)](https://github.com/anuraghazra/github-readme-stats)
 
