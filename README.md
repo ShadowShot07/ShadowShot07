@@ -1,15 +1,17 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
   <h1 align="center">Hello👋, I'm Javier</h1>
-  <h3 align="center">I'm a full stack web developer from the Canary Islands. I've learned to develop in Python for applications like Blender and Maya, adding components and functionalities.I'm currently learning more about developing these functionalities in the mentioned programs.
+  <h3 align="center">
+    I'm a full stack web developer from the Canary Islands. I've learned to develop in Python for applications like Blender and Maya, adding components and                 functionalities. 
+    I have also finished a course at masterD on C++ programming based on the unreal engine. 
   </h3>
 </div>
 
 ---  
 ### 👨‍💻About me:
-- 💬 You can ask me for **Python, MySQL, Javascript, PHP**
+- 💬 You can ask me for **Python, C#, C++, Javascript, PHP**
 - 📩 How to Contact me **javierveradevelop@gmail.com**
-- 📝 I'm currently learning **More Python, C++, C#**
+- 📝 I'm currently learning **More Python and more C++**
 
 <div align="left">
   <h3> 🛠 Languages and Tools:</h3>
@@ -20,16 +22,14 @@
          title="Git" alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" 
          title="Python" alt="Python" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" 
-         title="javascript" alt="javascript" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" 
-         title="mysql" alt="mysql" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" 
-         title="php" alt="php" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" 
          title="C++" alt="C++" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" 
          title="C#" alt="C#" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" 
+         title="javascript" alt="javascript" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" 
+         title="php" alt="php" width="40" height="40"/>
   </div>
 </div>
 
